@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.container {
+  display: flexbox;
+  justify-items: center;
+  align-items: center;
+}
+
+.text {
+  font-weight: 800;
+}
+
+button {
+  background-color: cyan;
+  padding: 8px 10px;
+  border-radius: 8px;
+  font-size: 20px;
+}
